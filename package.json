@@ -1,0 +1,35 @@
+{
+  "name": "decoffination",
+  "version": "1.0.0",
+  "description": "have some angular with your coffee",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nefa/gruntangulares6.git"
+  },
+  "author": "nefa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nefa/gruntangulares6/issues"
+  },
+  "homepage": "https://github.com/nefa/gruntangulares6#readme",
+  
+  "devDependencies": {
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.10.0",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.14"
+  },
+  "dependencies": {
+    "angular": "^1.5.2",
+    "angular-animate": "^1.5.2",
+    "angular-route": "^1.5.2",
+    "angular-touch": "^1.5.2",
+    "angular-ui-grid": "^3.1.1",
+    "angular-ui-router": "^0.2.18"
+  }
+}
